@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# team11embedded
-Repo to store all project code for ECE 4534
-=======
-# doodlebot_move
->>>>>>> 7780914e99bbecfb2eb70ff730a9f5def0a11c57
+This is all the code used to implement the doodle bot movement for my Embedded Systems Design class, ECE 4534 at Virginia Tech. This was implemented on a Pic 32 microcontroller, used a Polulu IR sensor array as it's sole sensor, and a wifly module as it's wireless communication method. If there are any questions, feel free to ask.
+
+Here's a video of it working: https://www.youtube.com/watch?v=McZSd-qusxE
